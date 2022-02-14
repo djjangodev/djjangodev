@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @djjangodev
-- 🌱 I’m currently learning LUA
+- 🌱 I’m currently learning VUE
 - 👀 I’m codding in php, html, css, js
 
 <!---
