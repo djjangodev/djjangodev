@@ -1,4 +1,4 @@
-- https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif Hi, I’m @djjangodev
+- Hi, I’m @djjangodev
 - 🌱 I’m currently learning VUE
 - 👀 I’m codding in php, html, css, js
 
