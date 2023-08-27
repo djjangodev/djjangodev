@@ -1,5 +1,5 @@
 
-<h3>Hi, I’m dj_jango <embed type="image/jpg" src="https://github.com/djjangodev/github-readme-stats" width="100" height="100"> </h3>
+<h3>Hi, I’m dj_jango <embed src="https://github.com/djjangodev/github-readme-stats" width="100" height="100"> </h3>
 
 
 
